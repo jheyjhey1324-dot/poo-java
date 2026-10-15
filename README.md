@@ -1,6 +1,6 @@
 # 🏠 Simulador de Financiamento Imobiliário
 
-Exercício da disciplina de Programação Orientada a Objetos simula um financiamento imobiliário em Java que compara quatro situações 
+Exercício da disciplina de Programação Orientada a Objetos que simula um financiamento imobiliário em Java que compara quatro situações 
 diferentes. 
 
 ## Sobre o projeto:
